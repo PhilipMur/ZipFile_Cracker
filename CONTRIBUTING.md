@@ -1,6 +1,6 @@
 Contribution
 
-Thank you for considering contribution to the Serial-Comm-Tester Project!
+Thank you for considering contribution to the ZipFile_Cracker Project!
 How to contribute?
 
 It's very simple!
