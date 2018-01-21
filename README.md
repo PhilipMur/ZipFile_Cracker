@@ -19,6 +19,8 @@ Copy the "7z.dll" file and paste that dll file in the same directory that this p
 
 A problem i ran in to was that the dll on first run would throw an error so make sure in visual studio "Properties >> Build -(uncheck Prefer 32 Bit) and leave Platform Target as ANY CPU.
 
-I will put a link to a video showing this all later on.
+USAGE SEE MY YOUTUBE CHANNEL
+
+Link to [MY Youtube Channel](https://www.youtube.com/watch?v=9rW4ndWbWEM)
 
 Philip M
