@@ -1,5 +1,5 @@
 # ZipFile_Cracker
-C# program to crack password protected .zip files and .7z files
+C# program to crack password protected encrypted .zip files and .7z files
 
 A simple Password cracker for Password Protected zipped files and folders that use the extension (.zip or .7z).
 
